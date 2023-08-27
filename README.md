@@ -1,12 +1,12 @@
 ### 🗣 Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 27th, 2023, 1:02:09 AM (GMT)
+Last Updated: Sunday, August 27th, 2023, 12:22:53 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [phillipai/100-days-of-code-python](https://github.com/phillipai/100-days-of-code-python)<br>
-2. ✌️ Released [V1.0](https://github.com/minhkhuong2404/notion-vietcetera/releases/tag/latest) in [minhkhuong2404/notion-vietcetera](https://github.com/minhkhuong2404/notion-vietcetera)<br>
-3. ⭐ Starred [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
-4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
-5. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
+1. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/udemy-cookie](https://github.com/minhkhuong2404/udemy-cookie)<br>
+2. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/udemy-cookie](https://github.com/minhkhuong2404/udemy-cookie)<br>
+3. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/udemy-cookie](https://github.com/minhkhuong2404/udemy-cookie)<br>
+4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/udemy-cookie](https://github.com/minhkhuong2404/udemy-cookie)<br>
+5. 📔 Created new repository [minhkhuong2404/udemy-cookie](https://github.com/minhkhuong2404/udemy-cookie)<br>
 <!--RECENT_ACTIVITY:end-->
